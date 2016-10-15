@@ -1,6 +1,7 @@
 <?php
 
 $dzisiaj = date("Y-m-d");
+echo $dzisiaj;
 
 
 $filename = 'paczkomaty-z-' . $dzisiaj . '.xml' ;
